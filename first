@@ -1,0 +1,15 @@
+public class first
+{
+static class Node
+}
+int value
+node left;
+node right;
+
+node(int value)
+{
+this.value=value;
+left=null;
+right=null;
+}
+}
